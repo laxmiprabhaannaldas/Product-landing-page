@@ -23,3 +23,5 @@ Approaches that I used while developing the product Landing page:
   6. Added the style for video section.
   7. Added the style for the other cartoons section and used css flexbox.
   8. Designed footer for the page.
+  
+  The added css for the responsive view of the page.
