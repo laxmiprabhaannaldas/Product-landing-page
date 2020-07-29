@@ -10,7 +10,7 @@ Approaches that I used while developing the product Landing page:
   6. Then created a besic form with the header and email input field and a buttton of "watch cartoon".
   7. Then developed the anothe part i.e about of the page.
   8. As per the user story their a part of adding a video in the webpage.Firstly learned the basic of adding a video in html webpage.Then addded a video the webpage.
-  9. Then Added the section of other cartoons by using CSS flexbox.
+  9. Then Added the section of other cartoons by using CSS flexbox. 
   10.Then  added the footer in the webpage with the elements like terms, privacy, contacts and a copyright of disney world.
   
   B. Steps used for Adding the CSS styles in the webpage.
