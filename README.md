@@ -1,7 +1,7 @@
 # Product-landing-page
 Here is the product landing page of Disney world.
 Approaches that I used while developing the product Landing page:
-A. Steps that I follwed for designing the basic html page without any styles.
+  A. Steps that I follwed for designing the basic html page without any styles.
   1. Understood the user stories required for the webpage.
   2. Searched for other product lading page and understood that how to develop the page.
   3. Started the develping the webpage for Disney cartoons product landing page.
@@ -12,7 +12,9 @@ A. Steps that I follwed for designing the basic html page without any styles.
   8. As per the user story their a part of adding a video in the webpage.Firstly learned the basic of adding a video in html webpage.Then addded a video the webpage.
   9. Then Added the section of other cartoons by using CSS flexbox.
   10.Then  added the footer in the webpage with the elements like terms, privacy, contacts and a copyright of disney world.
-B. Steps used for Adding the CSS styles in the webpage.
+  
+  B. Steps used for Adding the CSS styles in the webpage.
+
   1. Added the backgound color as according for the title.
   2. Added Styles for the header section by adding the styles for logo and nav bar.
   3. Added the style for fix the header according to the viewport by using the position property of css.
